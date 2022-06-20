@@ -1,9 +1,9 @@
 # test1
 
-test
->>>
-hiden text
-test
-<<<
-
+<details>
+  <summary>test</summary>
+   hiden text
+   test
+</details>
 qwe
+
